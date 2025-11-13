@@ -52,4 +52,7 @@ A soothing AI anxiety hotline that feels like a late-night whisper 🤫 from a f
 - "I'll be right here when you need me again. This is always your safe space. Goodnight… or good morning." 😴
 
 ## 🤝 Contribute!
-- Want to help improve Nightlight? We welcome contributions! Check the repository for open issues or submit a pull request with your ideas for new features, bug fixes, or theme enhancements. Your help keeps the light on! 🌟
+- Want to help improve Nightlight?
+- We welcome contributions!
+- Check the repository for open issues or submit a pull request with your ideas for new features, bug fixes, or theme enhancements.
+- Your help keeps the light on! 🌟
